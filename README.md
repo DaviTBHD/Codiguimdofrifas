@@ -1,3 +1,23 @@
-codiguinho de frifas adicionado
- 
-gratuito com boost di diamantis
+# 🎮 Gerador de Codiguim do frifas
+
+Este script Python gera códigos promocionais no estilo dos utilizados no jogo Free Fire, compostos por 12 caracteres aleatórios (letras maiúsculas e números).
+📌 Requisitos
+
+    Python 3.x
+
+# 📦 Instalação
+
+Clone o repositório ou copie o script gerador_codigos.py para o seu ambiente local.
+
+```
+git clone https://github.com/seu-usuario/gerador-codigos-freefire.git
+cd gerador-codigos-freefire
+```
+
+# ▶️ Como usar
+
+Execute o script diretamente com o Python:
+
+```python gerador_codigos.py```
+
+Você será solicitado a informar quantos códigos deseja gerar.
